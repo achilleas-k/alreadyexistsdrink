@@ -1,2 +1,1 @@
-hjidsooijfdsoijfdsijfdsijfdsfdsjprint("awesomst")
-and then shut up
+print("Fixed everything")
