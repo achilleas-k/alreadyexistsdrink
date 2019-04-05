@@ -1,2 +1,2 @@
-print("awesomst")
+hjidsooijfdsoijfdsijfdsijfdsfdsjprint("awesomst")
 and then shut up
