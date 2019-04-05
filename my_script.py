@@ -1,1 +1,1 @@
-print("awesomst")
+lkndadsansalk/lkndsa/lkalprint("awesomst")
